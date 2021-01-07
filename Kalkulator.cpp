@@ -7,10 +7,10 @@ int main()
     char znak;
     float l1, l2;
 
-    cout << "Enter operator either + or - or * or /: ";
+    cout << "Podaj znak + lub - lub * lub /: ";
     cin >> znak;
 
-    cout << "Enter two operands: ";
+    cout << "Podaj dwie zmienne:  ";
     cin >> l1 >> l2;
 
     switch(znak)
