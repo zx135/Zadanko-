@@ -29,9 +29,7 @@ int main()
         case '*':
             cout << l1 * l2;
             break;
-        default:
-            cout << "Błędny znak operacji";
-            break;
+        
 
     }
 
